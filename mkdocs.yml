@@ -33,7 +33,7 @@ theme:
         name: "Turn on the lights"
 
 nav:
-    - "About Me": 'about.md'
+    - "About Me": 'index.md'
     - Revit:
         - "Select Elements": revit/select_elements.md
         - "Read and Write Parameters": revit/parameters.md
@@ -66,9 +66,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: "#"
-
-extra_css:
-  - stylesheets/extra.css
 
 plugins:
   - mkdocstrings
