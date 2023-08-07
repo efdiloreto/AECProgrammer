@@ -1,4 +1,4 @@
-site_name: AEC PROGRAMMER
+site_name: THE AEC PROGRAMMER
 site_description: Coding for the AEC Industry
 copyright: |
   Copyright &copy; 2021-2023 Eduardo Di Loreto
@@ -33,7 +33,7 @@ theme:
         name: "Turn on the lights"
 
 nav:
-    - About: 'about.md'
+    - "About Me": 'about.md'
     - Revit:
         - "Select Elements": revit/select_elements.md
         - "Read and Write Parameters": revit/parameters.md
