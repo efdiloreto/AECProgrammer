@@ -33,7 +33,6 @@ theme:
         name: "Turn on the lights"
 
 nav:
-    - "About Me": 'index.md'
     - Revit:
         - "Select Elements": revit/select_elements.md
         - "Read and Write Parameters": revit/parameters.md
